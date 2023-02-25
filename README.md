@@ -1,0 +1,3 @@
+# BID-admin-producto
+
+ADMINISTRADOR DE PRODUCTOS
